@@ -1,3 +1,4 @@
+// Sprint 1 User Page
 
 public class User {
     private String name;
